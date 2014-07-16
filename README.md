@@ -2,7 +2,7 @@
 
 Markup.pcjs stands for "Markup in JavaScript using Parser Combinator".
 
-I came up with the parser combinator approach when reading ![Parsing Expression Grammar](http://pdos.csail.mit.edu/papers/parsing:popl04.pdf). I was tring to write a Markdown parser. Because I could not overcome the problem of creating self-calling component, namely recursion, I had to abandon project.
+I came up with the parser combinator approach when reading [Parsing Expression Grammar](http://pdos.csail.mit.edu/papers/parsing:popl04.pdf). I was tring to write a Markdown parser. Because I could not overcome the problem of creating self-calling component, namely recursion, I had to abandon project.
 
 The problem is like this:
 
